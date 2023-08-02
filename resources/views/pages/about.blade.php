@@ -18,7 +18,7 @@
 
 <div class="uwu">
 
-    <h1 class="text-muted mt-5">David Dwiyanto</h1>
+    <h1 class="text-muted mt-5">David Dwiyanto - QueTag</h1>
 
     <div class="container">
 
