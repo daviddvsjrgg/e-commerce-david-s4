@@ -26,7 +26,10 @@
 
             <div class="col text-muted">
 
-                <p>Application Made by : David Dwiyanto </p>
+                <p>Application Made by : David Dwiyanto <br> Link Application : <a
+                        href="https://github.com/daviddvsjrgg/e-commerce-david-s4">
+                        https://github.com/daviddvsjrgg/e-commerce-david-s4</a> </p>
+
 
                 <a href="https://www.instagram.com/davidek_rl/" target="_blank" class="btn btn-info">Instagram</a>
 
